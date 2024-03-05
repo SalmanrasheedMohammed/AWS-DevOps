@@ -54,7 +54,7 @@
 **ec2**
 - An EC2 (Elastic Compute Cloud) instance is a virtual server provided by Amazon Web Services (AWS) within its Elastic Compute Cloud service.
 - EC2 instances are the fundamental building blocks of AWS's cloud computing platform. They allow users to rent virtual machines (VMs) for running applications or hosting websites.
-   - **Keypoints**
+- **Keypoints**
    - Elasticity and Scalability.
    - Instance Types: general-purpose, compute-optimized, memory-optimized, storage-optimized, and more.
    - Operating System Support: Users can choose from a variety of operating systems, including various Linux distributions, Microsoft Windows Server, and others.
