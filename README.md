@@ -20,12 +20,12 @@
 * Ownership and Control: Private cloud infrastructure is owned and operated by the organization itself, providing greater control over security, compliance, and data governance.
 
 **why to use Public cloud?**
-Cost efficiency through pay-as-you-go pricing.
-Elastic scalability to meet changing demand.
-Global reach for improved performance and user experience.
-Reliability with redundant infrastructure and high availability.
-Robust security measures and compliance certifications.
-Access to a wide range of managed services for offloading infrastructure management.
-Foster innovation and agility through access to cutting-edge technologies.
-Ease of use with intuitive interfaces and APIs for resource management.
+- Cost efficiency through pay-as-you-go pricing.
+- Elastic scalability to meet changing demand.
+- Global reach for improved performance and user experience.
+- Reliability with redundant infrastructure and high availability.
+- Robust security measures and compliance certifications.
+- Access to a wide range of managed services for offloading infrastructure management.
+- Foster innovation and agility through access to cutting-edge technologies.
+- Ease of use with intuitive interfaces and APIs for resource management.
 
