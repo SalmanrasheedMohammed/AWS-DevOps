@@ -51,3 +51,7 @@
 * Completion
 * Copy and paste the creditionals, and login into IAM user.
 
+**ec2**
+- An EC2 (Elastic Compute Cloud) instance is a virtual server provided by Amazon Web Services (AWS) within its Elastic Compute Cloud service.
+- EC2 instances are the fundamental building blocks of AWS's cloud computing platform. They allow users to rent virtual machines (VMs) for running applications or hosting websites.
+
