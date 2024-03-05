@@ -10,4 +10,22 @@
 * Shared Infrastructure: Resources in a public cloud environment are shared among multiple users and organizations, leading to cost savings through economies of scale.
 * Scalability: Public cloud services offer elastic scalability, allowing users to rapidly scale resources up or down based on demand.
 * Managed by Third-party: Public cloud infrastructure is owned, managed, and maintained by third-party cloud service providers, relieving users of the burden of hardware management and maintenance tasks.
-* Pay-as-you-go Pricing: Public cloud services typically operate on a pay-as-you-go pricing model, where users only pay for the resources they consume, providing cost-efficiency and flexibility
+* Pay-as-you-go Pricing: Public cloud services typically operate on a pay-as-you-go pricing model, where users only pay for the resources they consume, providing cost-efficiency and flexibility.
+
+**Private cloud**
+* Dedicated Infrastructure: Private cloud environments are deployed on dedicated infrastructure, either on-premises or in a hosted data center, providing more control and customization options.
+* Isolated Environment: Resources in a private cloud are dedicated to a single organization, offering enhanced security and privacy compared to public cloud environments.
+* Customization: Private clouds offer greater customization and configuration options, allowing organizations to tailor the infrastructure to their specific needs and compliance requirements.
+* Scalability: Private clouds can be scaled, but typically not as rapidly as public clouds due to the need for additional hardware procurement and deployment.
+* Ownership and Control: Private cloud infrastructure is owned and operated by the organization itself, providing greater control over security, compliance, and data governance.
+
+**why to use Public cloud?**
+Cost efficiency through pay-as-you-go pricing.
+Elastic scalability to meet changing demand.
+Global reach for improved performance and user experience.
+Reliability with redundant infrastructure and high availability.
+Robust security measures and compliance certifications.
+Access to a wide range of managed services for offloading infrastructure management.
+Foster innovation and agility through access to cutting-edge technologies.
+Ease of use with intuitive interfaces and APIs for resource management.
+
