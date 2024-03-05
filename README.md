@@ -29,3 +29,25 @@
 - Foster innovation and agility through access to cutting-edge technologies.
 - Ease of use with intuitive interfaces and APIs for resource management.
 
+**IAM**
+* IAM stands for Identity and Access Management. It is a core service provided by AWS that allows you to manage access to your AWS resources securely. In brief, IAM enables you to control who can access your AWS resources (authentication) and what actions they can perform (authorization).
+    * Users
+    * Groups
+    * Roles
+    * Policies
+    * Access Keys
+    * Multi-factor Authentication (MFA)
+
+**Create an IAM user in AWS**
+* Sign in to the AWS Management Console
+* Navigate to IAM
+* Access IAM Dashboard
+* Click on "Add user"
+* Enter user details
+* Set permissions
+* Review
+* Create user
+* Access keys (optional)
+* Completion
+* Copy and paste the creditionals, and login into IAM user.
+
