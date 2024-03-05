@@ -51,7 +51,7 @@
 * Completion
 * Copy and paste the creditionals, and login into IAM user.
 
-**ec2**
+**EC2**
 - An EC2 (Elastic Compute Cloud) instance is a virtual server provided by Amazon Web Services (AWS) within its Elastic Compute Cloud service.
 - EC2 instances are the fundamental building blocks of AWS's cloud computing platform. They allow users to rent virtual machines (VMs) for running applications or hosting websites.
 - **Keypoints**
@@ -62,5 +62,23 @@
    - Integration with Other AWS Services: EC2 integrates seamlessly with other AWS services like Amazon EBS (Elastic Block Store), Amazon S3 (Simple Storage Service), Amazon RDS (Relational Database Service), and more, allowing for building complex and scalable architectures.
    - Security and Compliance: EC2 provides features such as Security Groups, Network Access Control Lists (NACLs), and Virtual Private Clouds (VPCs) to ensure secure deployment and isolation of resources.
    - Monitoring and Management: AWS offers tools like Amazon CloudWatch for monitoring EC2 instances' performance and AWS Systems Manager for managing and automating administrative tasks.
+
+**VPC**
+- In Amazon Web Services (AWS), a Virtual Private Cloud (VPC) is a foundational networking construct that allows you to provision a logically isolated section of the AWS Cloud where you can launch AWS resources in a virtual network that you define.
+- **keypoints**
+   - VPC
+   - Subnets
+   - Internet Gateway (IGW)
+   - Route Tables
+   - Network Access Control Lists (NACLs)
+   - Security Groups
+
+![image](https://github.com/SalmanrasheedMohammed/AWS-DevOps/assets/101308889/980f2a49-a8df-4242-aef7-ac5f03ae5461)
+
+
+
+
+
+
 
 
