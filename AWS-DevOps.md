@@ -79,8 +79,15 @@
 - Amazon Route 53 is a highly scalable and reliable Domain Name System (DNS) web service provided by Amazon Web Services (AWS). It is designed to route end users to applications and resources by translating human-readable domain names into IP addresses.
 - map your name with IP address
 - --Domain name--load balancer--IP address--Application--
-
-
+- ![image](https://github.com/SalmanrasheedMohammed/AWS-DevOps/assets/101308889/fa16e017-5aaa-4654-8682-952fb252818f)
+   - **Key components**
+      - Domain Registration
+      - DNS Service
+      - Health Checks
+      - DNS Failover
+      - Traffic Routing Policies
+      - Integration with AWS Services
+      - Global Network Infrastructure
 
 
 
