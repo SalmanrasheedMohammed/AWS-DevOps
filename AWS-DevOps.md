@@ -14,7 +14,7 @@
 * Cloud computing offers several benefits, such as flexibility, scalability, cost efficiency, and enhanced data security.
 
 **Cloud Deployment models:**
-- There are four main types of cloud computing: private clouds, public clouds, hybrid clouds, and multi-clouds.
+There are four main types of cloud computing: private clouds, public clouds, hybrid clouds, and multi-clouds.
 **Public Cloud:**
 - Services provided by third-party vendors.Shared resources for the general public.
 - High scalability and cost-effectiveness.
