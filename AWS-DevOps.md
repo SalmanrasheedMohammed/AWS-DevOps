@@ -9,6 +9,34 @@
 
 - It includes Database storage, Networking, Email, Mobile development, Remote computing, Content Delivery, Security
 
+**Cloud Computing:** 
+* Cloud computing refers to the delivery of computing resources over the internet. It enables users to access and store data, run applications, and use various computing services remotely, without the need for local hardware and infrastructure.
+* Cloud computing offers several benefits, such as flexibility, scalability, cost efficiency, and enhanced data security.
+
+**Cloud Deployment models:**
+- There are four main types of cloud computing: private clouds, public clouds, hybrid clouds, and multi-clouds.
+**Public Cloud:**
+- Services provided by third-party vendors.Shared resources for the general public.
+- High scalability and cost-effectiveness.
+**Private Cloud:**
+- Dedicated to a single organization.
+- Can be on-premises or hosted.
+- Greater control over security and compliance.
+**Hybrid Cloud:**
+- Integrates on-premises, private, and public clouds.
+- Allows flexible workload movement.
+- Common for backup, disaster recovery, and burst computing.
+**Multi-Cloud:**
+- Involves using services from multiple cloud providers.
+- Avoids vendor lock-in.
+- Offers redundancy and best-of-breed solution
+
+**Cloud Service models:**
+- **Infrastructure as a Service (IaaS):** Provides virtualized computing resources over the internet. Users can rent virtual machines, storage, and networking infrastructure.
+- **Platform as a Service (PaaS):** Offers a platform that includes a runtime environment, development tools, and services to facilitate the development and deployment of applications.
+- **Software as a Service (SaaS):** Delivers software applications over the internet, eliminating the need for users to install, maintain, and update the software locally.
+- ![image](https://github.com/SalmanrasheedMohammed/AWS-DevOps/assets/101308889/23e2a89e-966c-49e2-a3cc-19bbaeb3bf88)
+
 **AWS Service Categories:**
 - **1. Compute Services**:
      - Amazon EC2 (virtual servers)
