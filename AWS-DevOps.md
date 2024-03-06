@@ -14,22 +14,22 @@
 * Cloud computing offers several benefits, such as flexibility, scalability, cost efficiency, and enhanced data security.
 
 **Cloud Deployment models:**
-There are four main types of cloud computing: private clouds, public clouds, hybrid clouds, and multi-clouds.
-**Public Cloud:**
-- Services provided by third-party vendors.Shared resources for the general public.
-- High scalability and cost-effectiveness.
-**Private Cloud:**
-- Dedicated to a single organization.
-- Can be on-premises or hosted.
-- Greater control over security and compliance.
-**Hybrid Cloud:**
-- Integrates on-premises, private, and public clouds.
-- Allows flexible workload movement.
-- Common for backup, disaster recovery, and burst computing.
-**Multi-Cloud:**
-- Involves using services from multiple cloud providers.
-- Avoids vendor lock-in.
-- Offers redundancy and best-of-breed solution
+- There are four main types of cloud computing: private clouds, public clouds, hybrid clouds, and multi-clouds.
+  **1. Public Cloud:**
+       - Services provided by third-party vendors.Shared resources for the general public.
+       - High scalability and cost-effectiveness.
+  **2. Private Cloud:**
+       - Dedicated to a single organization.
+       - Can be on-premises or hosted.
+       - Greater control over security and compliance.     
+  **3. Hybrid Cloud:**
+       - Integrates on-premises, private, and public clouds.
+       - Allows flexible workload movement.
+       - Common for backup, disaster recovery, and burst computing.
+  **4. Multi-Cloud:**
+       - Involves using services from multiple cloud providers.
+       - Avoids vendor lock-in.
+       - Offers redundancy and best-of-breed solution
 
 **Cloud Service models:**
 - **Infrastructure as a Service (IaaS):** Provides virtualized computing resources over the internet. Users can rent virtual machines, storage, and networking infrastructure.
