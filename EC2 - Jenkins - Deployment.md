@@ -29,6 +29,6 @@ echo deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc] \
 
 - copy the above <jenkins path>
 - paste into Git bash sever using
-  - cat <jenkins path>
+  - cat / jenkins path
   - passwd / paste into the jenkins sever
 ![j2](https://github.com/SalmanrasheedMohammed/AWS-Jenkins/assets/101308889/89c664e3-f4d7-4238-833a-59b74db1a686)
