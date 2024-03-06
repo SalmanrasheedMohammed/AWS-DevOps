@@ -15,18 +15,18 @@
 
 **Cloud Deployment models:**
 - There are four main types of cloud computing: private clouds, public clouds, hybrid clouds, and multi-clouds.
-  **1. Public Cloud:**
+- Public Cloud:
        - Services provided by third-party vendors.Shared resources for the general public.
        - High scalability and cost-effectiveness.
-  **2. Private Cloud:**
+- Private Cloud:
        - Dedicated to a single organization.
        - Can be on-premises or hosted.
        - Greater control over security and compliance.     
-  **3. Hybrid Cloud:**
+- Hybrid Cloud:
        - Integrates on-premises, private, and public clouds.
        - Allows flexible workload movement.
        - Common for backup, disaster recovery, and burst computing.
-  **4. Multi-Cloud:**
+- Multi-Cloud:
        - Involves using services from multiple cloud providers.
        - Avoids vendor lock-in.
        - Offers redundancy and best-of-breed solution
