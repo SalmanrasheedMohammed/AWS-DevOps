@@ -132,6 +132,9 @@
 
 ![image](https://github.com/SalmanrasheedMohammed/AWS-DevOps/assets/101308889/980f2a49-a8df-4242-aef7-ac5f03ae5461)
 
+**VPC workflow**
+- ![image](https://github.com/SalmanrasheedMohammed/AWS-DevOps/assets/101308889/7eeb3f01-2cdf-4a0e-bcf7-966be841c2d4)
+
 **Route53**
 - Amazon Route 53 is a highly scalable and reliable Domain Name System (DNS) web service provided by Amazon Web Services (AWS). It is designed to route end users to applications and resources by translating human-readable domain names into IP addresses.
 - map your name with IP address
@@ -145,6 +148,7 @@
       - Traffic Routing Policies
       - Integration with AWS Services
       - Global Network Infrastructure
+
 
 
 
