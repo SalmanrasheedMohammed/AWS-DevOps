@@ -5,6 +5,34 @@
 * AWS organizations can quickly scale their infrastructure, reduce costs, and increase agility by accessing resources on a pay-as-you-go basis.
 * By offering a secure and reliable cloud infrastructure, AWS allows businesses to focus on their core activities, innovation, and growth, without being bogged down by the complexities and costs of managing hardware or infrastructure.
 
+- ![image](https://github.com/SalmanrasheedMohammed/AWS-DevOps/assets/101308889/ee52b243-c5bb-4fc3-8c24-d62bbbaa1d6e)
+
+- It includes Database storage, Networking, Email, Mobile development, Remote computing, Content Delivery, Security
+**AWS Service Categories:**
+- 1.	Compute Services:
+     - Amazon EC2 (virtual servers)
+     - AWS Lambda (serverless computing)
+     - Amazon ECS (container orchestration)
+- 2.	Storage Services:
+     - Amazon S3 (object storage)
+     - Amazon EBS (block storage)
+     - Amazon Glacier (cold storage)
+- 3.	Database Services:
+     - Amazon RDS (managed relational databases)
+     - Amazon DynamoDB (NoSQL databases)
+     - Amazon Aurora (high-performance relational database)
+- 4.	Networking:
+     - Amazon VPC (Virtual Private Cloud)
+     - AWS Direct Connect (dedicated network connection)
+- 5.	Machine Learning:
+     - Amazon SageMaker (end-to-end machine learning platform)
+     - Amazon Rekognition (image and video analysis)
+- 6.	Analytics:
+     - Amazon Redshift (data warehousing)
+     - Amazon EMR (big data processing)
+- 7.	Developer Tools:
+     - AWS CodePipeline, AWS CodeBuild, AWS CodeDeploy (continuous integration and deployment)
+
 **Public Cloud**
 * Accessibility: Public cloud services are accessible to anyone over the internet. Users can access resources on-demand from anywhere with an internet connection.
 * Shared Infrastructure: Resources in a public cloud environment are shared among multiple users and organizations, leading to cost savings through economies of scale.
