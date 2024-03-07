@@ -151,11 +151,13 @@
 
 **AWS S3**
 - Amazon Simple Storage Service (Amazon S3) is a scalable object storage service offered by Amazon Web Services (AWS). It is designed to store and retrieve any amount of data from anywhere on the web
-- **Charactertics**
+
+**Charactertics**
        - scalable
        - high available
        - secure
        - cost effective
+
 **Key companents**
        - Buckets
        - Objects
