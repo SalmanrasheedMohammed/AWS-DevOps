@@ -159,14 +159,15 @@
 * cost effective
 
 **Key companents**
-       - Buckets
-       - Objects
-       - keys
-       - regions
-       - access control
-       - storage classes
-       - lifecycle policies
-       - versioning
+* Buckets
+* Objects
+* keys
+* regions
+* access control
+* storage classes
+* lifecycle policies
+* versioning
+
 
 
 
