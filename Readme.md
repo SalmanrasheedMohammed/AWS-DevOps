@@ -120,6 +120,9 @@
    - Security and Compliance: EC2 provides features such as Security Groups, Network Access Control Lists (NACLs), and Virtual Private Clouds (VPCs) to ensure secure deployment and isolation of resources.
    - Monitoring and Management: AWS offers tools like Amazon CloudWatch for monitoring EC2 instances' performance and AWS Systems Manager for managing and automating administrative tasks.
 
+**Keypairs**
+* It contains public key and private key, which contains security cerdentials using to connect the server. (.pem) (putty)
+
 **VPC**
 - In Amazon Web Services (AWS), a Virtual Private Cloud (VPC) is a foundational networking construct that allows you to provision a logically isolated section of the AWS Cloud where you can launch AWS resources in a virtual network that you define.
 - **keypoints**
