@@ -141,7 +141,7 @@
 **DNS**
 - DNS (Domain Name System) is a hierarchical decentralized naming system for computers, services, or other resources connected to the internet or a private network. It translates human-readable domain names (like example.com) into IP addresses (like 192.0.2.1) that machines use to identify each other on the network.
 - Domain names, IP addresses, DNS servers, DNS Records.
-- ![image](https://github.com/SalmanrasheedMohammed/AWS-DevOps/assets/101308889/d73e4833-2845-4603-aa2e-0baf36d44ff3)
+![image](https://github.com/SalmanrasheedMohammed/AWS-DevOps/assets/101308889/d73e4833-2845-4603-aa2e-0baf36d44ff3)
 
 **Elastic IPs**
 - An Elastic IP address (EIP) is a static IPv4 address designed for dynamic cloud computing on the Amazon Web Services (AWS) platform. Unlike traditional static IP addresses, which are typically associated with a specific physical or virtual machine, an Elastic IP address can be quickly remapped to any instance within your AWS account's regions
