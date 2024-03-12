@@ -138,6 +138,21 @@
 **VPC workflow**
 - ![image](https://github.com/SalmanrasheedMohammed/AWS-DevOps/assets/101308889/7eeb3f01-2cdf-4a0e-bcf7-966be841c2d4)
 
+**DNS**
+- DNS (Domain Name System) is a hierarchical decentralized naming system for computers, services, or other resources connected to the internet or a private network. It translates human-readable domain names (like example.com) into IP addresses (like 192.0.2.1) that machines use to identify each other on the network.
+- Domain names, IP addresses, DNS servers, DNS Records.
+- ![image](https://github.com/SalmanrasheedMohammed/AWS-DevOps/assets/101308889/d73e4833-2845-4603-aa2e-0baf36d44ff3)
+
+**Elastic IPs**
+- An Elastic IP address (EIP) is a static IPv4 address designed for dynamic cloud computing on the Amazon Web Services (AWS) platform. Unlike traditional static IP addresses, which are typically associated with a specific physical or virtual machine, an Elastic IP address can be quickly remapped to any instance within your AWS account's regions
+* DNS Records
+  - A records: Map domain names to IPv4 addresses.
+  - AAAA records: Map domain names to IPv6 addresses.
+  - CNAME records: Alias one domain name to another (often used for subdomains or load balancers).
+  - MX records: Specify mail servers responsible for receiving email on behalf of the domain.
+  - TXT records: Store arbitrary text data, often used for domain verification or SPF records.
+  - NS records: Specify the authoritative name servers for the domain.
+
 **Route53**
 - Amazon Route 53 is a highly scalable and reliable Domain Name System (DNS) web service provided by Amazon Web Services (AWS). It is designed to route end users to applications and resources by translating human-readable domain names into IP addresses.
 - map your name with IP address
@@ -171,8 +186,7 @@
 * lifecycle policies
 * versioning
 
-
-
+ 
 
 
 
