@@ -9,6 +9,7 @@
 
 - It includes Database storage, Networking, Email, Mobile development, Remote computing, Content Delivery, Security
 
+
 **Cloud Computing:** 
 * Cloud computing refers to the delivery of computing resources over the internet. It enables users to access and store data, run applications, and use various computing services remotely, without the need for local hardware and infrastructure.
 * Cloud computing offers several benefits, such as flexibility, scalability, cost efficiency, and enhanced data security.
